@@ -78,7 +78,7 @@ SMTP_PASSWORD=your_app_password
 SENDER_EMAIL=your_email@gmail.com
 USE_TLS=true
 
-DEFAULT_SUBJECT=Internship Application - Mohamed Bougaydane
+DEFAULT_SUBJECT=Internship Application - your name 
 DEFAULT_COMPANY=your company
 DEFAULT_NAME=Hiring Team
 

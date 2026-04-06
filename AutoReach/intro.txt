@@ -1,6 +1,6 @@
 Hello {name},
 
-My name is Mohamed Bougaydane, and I am a software engineering student currently looking for an internship opportunity.
+My name is your name here, and I am a software engineering student currently looking for an internship opportunity.
 
 I am very interested in {company} and would be glad to contribute to your team with my motivation, problem-solving skills, and technical background.
 
