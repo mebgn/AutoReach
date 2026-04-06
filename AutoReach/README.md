@@ -100,7 +100,7 @@ Use this header:
 
 ```csv
 email,name,company,subject
-hr@company1.com,Recruitment Team,Company 1,Application for Internship - Mohamed Bougaydane
+hr@company1.com,Recruitment Team,Company 1,Application for Internship - your name
 jobs@company2.com,,Company 2,
 talent@company3.com,HR Team,,
 ```
@@ -117,7 +117,7 @@ Example:
 ```txt
 Hello {name},
 
-My name is Mohamed Bougaydane, and I am a software engineering student currently looking for an internship opportunity.
+My name is set your name here , and I am a software engineering student currently looking for an internship opportunity.
 I am very interested in {company} and would be glad to contribute.
 
 Please find my resume attached.
